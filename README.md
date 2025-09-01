@@ -4,6 +4,8 @@ This is the Gilded Rose kata in TypeScript.
 
 I have added my solution to this refactoring exercise
 
+checkout original-problem branch for the original exercise
+
 ## Getting started
 
 Install dependencies
