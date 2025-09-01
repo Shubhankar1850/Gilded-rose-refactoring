@@ -2,6 +2,8 @@
 
 This is the Gilded Rose kata in TypeScript.
 
+This branch contains the original problem
+
 ## Getting started
 
 Install dependencies
